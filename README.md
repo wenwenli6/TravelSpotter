@@ -47,7 +47,7 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 - Steps of Heroku deploy
   1. Login to Heroku
      `heroku login`
-  \2. Navigate to your local source file
+  2. Navigate to your local source file
      `cd \path`
   3. Initialize Git
      `git init`
