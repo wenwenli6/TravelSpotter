@@ -13,8 +13,8 @@
 - Express.js
 - Node.js
   Next step, I will use React to modify the frontend.
-## Frontend: HTML, CSS, Javascript, Bootstrap
-## What I did for this APP?
+Frontend: HTML, CSS, Javascript, Bootstrap
+## Implementation of the APP
 ### Error handlers: Async errors and express built-in errors
 ### CRUD travel spots and reviews
 ### Authentication & Authorization
