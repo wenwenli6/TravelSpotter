@@ -1,5 +1,5 @@
 # TravelSpotter
- **A web application designed to help travelers discover exciting destinations around the world.**
+ **My full-stack project: https://travelspotter-df2a661ff6cf.herokuapp.com/. This web application designed to help travelers discover exciting destinations around the world.**
 ## Overview
  The APP adopts MVC pattern which makes it more organized, maintainable and scalable.
  
