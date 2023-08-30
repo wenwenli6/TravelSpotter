@@ -45,7 +45,7 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 - For development environments, use an .env file.
 - For production environments, either manually set environment variables in the Heroku app or configure them using the terminal.
 - Steps of Heroku deploy
-  1.Login to Heroku
+  1. Login to Heroku
      `heroku login`
   \2. Navigate to your local source file
      `cd \path`
