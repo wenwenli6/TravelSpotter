@@ -56,7 +56,9 @@ Frontend: HTML, CSS, Javascript, Bootstrap
       `git commit -m "Initial commit"`
   6. Create a new Heroku APP
      `heroku create name`
-  7. Deploy code to heroku
+  7. Associate local git repository with Heroku `heroku git:remote -a app-name`
+  8. Deploy code to heroku
      `git push heroku main`
+  9. open app `heroku open`
   
 
