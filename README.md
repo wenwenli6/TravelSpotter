@@ -43,7 +43,20 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 ### Deploy: Heroku
 - For development environments, use an .env file.
 - For production environments, either manually set environment variables in the Heroku app or configure them using the terminal.
-- ```heroku login```
-  
+- Steps of Heroku deploy
+  1. login to Heroku
+     `heroku login`
+  2. navigate to your local source file
+     `cd \path`
+  3. Initialize Git
+     `git init`
+  4. Move local files from work directory to staging area/index
+     `git add .`
+  5. Move files from staging area to local repository
+      `git commit -m "Initial commit"`
+  6. Create a new Heroku APP
+     `heroku create name`
+  7. Deploy code to heroku
+     `git push heroku main`
   
 
