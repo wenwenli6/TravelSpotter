@@ -1,5 +1,5 @@
 # TravelSpotter
- **A web application designed to help travelers discover exciting destinations around the world. **
+ ** A web application designed to help travelers discover exciting destinations around the world. **
  
  The APP adopts MVC pattern which makes it more organized, maintainable and scalable.
  
