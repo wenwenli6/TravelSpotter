@@ -27,7 +27,7 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 ![homepage](./imgs/ts5.png)
 ![homepage](./imgs/ts6.png)
 ## Implementation
-### Error handlers: Async errors and express built-in errors
+### Error handlers: Async errors and Express built-in errors
 ### Authentication & Authorization
 - Joi： authenticate vacation destinations, reviews;
 - connect-mongo: middleware that stores Express sessions in a MongoDB database, with "touchAfter" indicating that session data should only be updated after this time, helping to reduce database load;
