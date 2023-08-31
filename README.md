@@ -20,7 +20,7 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 - ejs；JavaScript files are inserted into HTML
 - EJSMate: work with layouts and partials, making it easier to organize and reuse template code.
 ## DEMO
-
+![homepage](./img/ts1.png)
 ## Implementation
 ### Error handlers: Async errors and express built-in errors
 ### Authentication & Authorization
