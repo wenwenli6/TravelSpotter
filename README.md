@@ -21,6 +21,11 @@ Frontend: HTML, CSS, Javascript, Bootstrap
 - EJSMate: work with layouts and partials, making it easier to organize and reuse template code.
 ## DEMO
 ![homepage](./img/ts1.png)
+![homepage](./img/ts2.png)
+![homepage](./img/ts3.png)
+![homepage](./img/ts4.png)
+![homepage](./img/ts5.png)
+![homepage](./img/ts6.png)
 ## Implementation
 ### Error handlers: Async errors and express built-in errors
 ### Authentication & Authorization
