@@ -19,6 +19,13 @@ Backend: MEN Stack
 Frontend: HTML, CSS, Javascript, Bootstrap
 - ejs；JavaScript files are inserted into HTML
 - EJSMate: work with layouts and partials, making it easier to organize and reuse template code.
+## DEMO
+![homepage](./img/ts1.png)
+![homepage](./img/ts2.png)
+![homepage](./img/ts3.png)
+![homepage](./img/ts4.png)
+![homepage](./img/ts5.png)
+![homepage](./img/ts6.png)
 ## Implementation
 ### Error handlers: Async errors and express built-in errors
 ### Authentication & Authorization
@@ -57,7 +64,7 @@ Frontend: HTML, CSS, Javascript, Bootstrap
       `git commit -m "Initial commit"`
   6. Create a new Heroku APP
      `heroku create name`
-  7. Associate local git repository with Heroku `heroku git:remote -a app-name`
+  7. Associate local git repository with Heroku `heroku git:remote -a travelspotter`
   8. Deploy code to heroku
      `git push heroku main`
   9. open app `heroku open`
